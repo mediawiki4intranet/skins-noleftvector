@@ -1,0 +1,5 @@
+.skin-noleftvector #mw-panel, .skin-noleftvector #footer { display: none; }
+.skin-noleftvector #left-navigation, .skin-noleftvector .mw-body { margin-left: 0; }
+.skin-noleftvector #mw-head-base { margin-left: 0; height: 4em; margin-top: -5em; }
+.skin-noleftvector #left-navigation, .skin-noleftvector #right-navigation { margin-top: 1.5em; }
+.skin-noleftvector #p-personal { top: 0; }

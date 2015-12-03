@@ -1,0 +1,31 @@
+{
+	"name": "No Left Vector",
+	"author": [
+		"Vitaliy Filippov",
+		"..."
+	],
+	"url": "http://wiki.4intra.net/NoLeftVector",
+	"description": "Vector-based skin without nagivation links",
+	"name": "NoLeftVector",
+	"license-name": "GPL-2.0+",
+	"type": "skin",
+	"ValidSkinNames": {
+		"noleftvector": "NoLeftVector"
+	},
+	"ResourceModules": {
+		"skins.noleftvector": {
+			"position": "top",
+			"styles": {
+				"main.css": { "media": "screen" }
+			}
+		}
+	},
+	"ResourceFileModulePaths": {
+		"localBasePath": "",
+		"remoteSkinPath": "noleftvector"
+	},
+	"AutoloadClasses": {
+		"SkinNoLeftVector": "noleftvector.php"
+	},
+	"manifest_version": 1
+}
